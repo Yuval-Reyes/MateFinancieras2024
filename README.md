@@ -26,7 +26,7 @@ valorActual=1000
 tasaPeriodo=0.02
 nPeriodos:7
 #Calculamos el valor futuro
-valorFuturo=valorFinalSimple(VA=valorAcutual,r=tasaPeriodo,t=Periodos)
+valorFuturo=valorFinalSimple(VA=valorActual,r=tasaPeriodo,t=nPeriodos)
 #Imprimimos el resultado
 valorFuturo
 ```
