@@ -9,3 +9,24 @@ Con el siguiente codigo, puede usted cargar las funciones relativas a los calcul
 ```{r}
 source("https://raw.githubusercontent.com/Yuval-Reyes/MateFinancieras2024/refs/heads/main/formulasInteresSimple.R")
 ```
+A continuacion se dan ejemplos del uso de las formulas correspondientes
+###Calculo del valor futuro
+
+
+para ilustrar el ejemplo se tiene el siguiente ejercicio:
+$VA$=$1,000.00
+$i$=24% anualizado
+$r$=2.00% mensual
+$t$=7 meses
+
+Se realizan los calculos:
+```(r)
+#creamos objetos con valores de entrada:
+valorActual=1000
+tasaPeriodo=0.02
+nPeriodos:7
+#Calculamos el valor futuro
+valorFuturo=valorFinalSimple(VA=valorAcutual,r=tasaPeriodo,t=Periodos)
+#Imprimimos el resultado
+valorFuturo
+```
