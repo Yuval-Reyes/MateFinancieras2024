@@ -66,7 +66,7 @@ $t$=7 meses
 Se realizan los calculos:
 ```(r)
 #creamos objetos con valores de entrada:
-VA=1,000.00
+VA=1000
 valorFinal=1140
 nPeriodos=7
 #Calculamos el valor futuro
@@ -88,7 +88,7 @@ $i$=24% anualizado
 Se realizan los calculos:
 ```(r)
 #creamos objetos con valores de entrada:
-VA=$1,000.00
+VA=1000
 tasaPeriodo=0.02
 valorFinal=1140
 #Calculamos el valor futuro
