@@ -1,0 +1,30 @@
+# se presentan las funciones de interes simple
+#autor: Dana Yuval Reyes González
+#v1.0: 19 septiembre de 2024
+
+#valor futuro con interes simple:
+
+valorfinalsimple=function(VA,r,t){
+xSalida=VA*(1+(r*t))  
+
+return(xSalida)
+}
+
+#calcular el valor presente
+VA=function(VF, r, t){
+  xsalida=VF/(1+(r*t))
+  return(xsalida)
+}
+
+#calular la tasa de interes mensual
+r=function(VF, VA, t){
+  xsalida=(VF-VA)/(VA*t)
+  return(xsalida)
+}
+
+#calcular el tiempo
+t=function(VF, VA, r){
+  xsalida=(VF-VA)/(VA*r)
+  return(xsalida)
+}
+
