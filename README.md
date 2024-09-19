@@ -7,7 +7,7 @@ En este repositorio, se agrupan las funciones y actividades informaticas realiza
 Con el siguiente codigo, puede usted cargar las funciones relativas a los calculos de interes simple:
 
 ```{r}
-source("https://raw.githubusercontent.com/Yuval-Reyes/MateFinancieras2024/refs/heads/main/VF")
+source("https://raw.githubusercontent.com/Yuval-Reyes/MateFinancieras2024/refs/heads/main/VF%20(1)")
 ```
 A continuacion se dan ejemplos del uso de las formulas correspondientes
 ###Calculo del valor futuro
