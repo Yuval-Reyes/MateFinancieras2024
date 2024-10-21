@@ -10,7 +10,7 @@ Con el siguiente codigo, puede usted cargar las funciones relativas a los calcul
 source("https://raw.githubusercontent.com/Yuval-Reyes/MateFinancieras2024/refs/heads/main/VF%20(1)")
 ```
 A continuacion se dan ejemplos del uso de las formulas correspondientes
-###Calculo del valor futuro
+### Calculo del valor futuro
 
 
 para ilustrar el ejemplo se tiene el siguiente ejercicio:
@@ -32,7 +32,7 @@ valorFuturo
 ```
 
 
-###Calculo del valor Actual
+### Calculo del valor Actual
 
 
 para ilustrar el ejemplo se tiene el siguiente ejercicio:
@@ -54,7 +54,7 @@ valorActual
 ```
 
 
-###Calculo de la tasa de interes mensual
+### Calculo de la tasa de interes mensual
 
 
 para ilustrar el ejemplo se tiene el siguiente ejercicio:
@@ -76,7 +76,7 @@ interes
 ```
 
 
-###Calculo del tiempo
+### Calculo del tiempo
 
 
 para ilustrar el ejemplo se tiene el siguiente ejercicio:
